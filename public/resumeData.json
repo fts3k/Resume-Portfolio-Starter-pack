@@ -2,7 +2,7 @@
   "main": {
     "name": "Kevin Ojijo",
     "occupation": "Cloud Engineer and the Forensic Guy from 254",
-    "description": "I enjoy solving cases. Explains my love for Financial Crime Investigations.",
+    "description": "I enjoy solving cases and that explains my love for Financial Crime Investigations.",
     "image": "profilepic.jpg",
     "bio": "Hello! I am Kevin! I call myself a professional tourist. I currently work as a Cloud Engineer since May 2022. Previously worked as a Systems Engineer at Safaricom PLC (Kenya), Advisory Associate at PricewaterhouseCoopers (Kenya), Survey Officer and Customer Installation Technician at Poa Internet (Kenya). I enjoy learning new technologies and mentoring other people. Ohh, I also love photography and still looking for a camera",
     "contactmessage": "Drop me an email!",
@@ -46,12 +46,12 @@
         "company": "Cisco Systems",
         "title": "Cloud Engineer",
         "years": "May 2022 - Present",
-        "description": "Cloning and Google things to get paid. We also run some infrastructure on AWS and GCP and I am very keen in ensuring they're up"
+        "description": "Cloning and Googling. We also run some infrastructure on AWS and GCP and I am tasked with ensuring the workloads are up, running optimally and in cost-effective mannaer"
       }
     ],
     "skills": [
       {
-        "name": "Cloud Operations",
+        "name": "Cloud Design, Impelementation and Operations",
         "level": "80%"
       },
       {
@@ -60,7 +60,7 @@
       },
       {
         "name": "Python",
-        "level": "%"
+        "level": "35%"
       },
       {
         "name": "Git",
@@ -68,7 +68,7 @@
       },
       {
         "name": "JavaScript",
-        "level": "50%"
+        "level": "30%"
       },
       {
         "name": "Web Development",
