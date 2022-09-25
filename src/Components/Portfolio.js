@@ -39,6 +39,7 @@ const Portfolio = ({ data }) => {
               <li>System Engineering</li>
               <li>Life in Krakow, the City of Dragons</li>
               <li>Photography</li>
+              <li> And of course my favourite <strong>subreddits</strong>. Yes...Patience</li>
             </ol>
           </ul>
 
