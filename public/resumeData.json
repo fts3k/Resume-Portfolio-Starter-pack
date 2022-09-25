@@ -6,7 +6,7 @@
     "image": "profilepic.jpg",
     "bio": "Hello! I am Kevin! I call myself a professional tourist. I currently work as a Cloud Engineer since May 2022. Previously worked as a Systems Engineer at Safaricom PLC (Kenya), Advisory Associate at PricewaterhouseCoopers (Kenya), Survey Officer and Customer Installation Technician at Poa Internet (Kenya). I enjoy learning new technologies and mentoring other people. Ohh, I also love photography and still looking for a camera",
     "contactmessage": "Drop me an email!",
-    "email": "validateagain@gmail.com",
+    "email": "xx@gmail.com",
     "phone": "To be provided",
     "address": {
       "street": "Some Address",
@@ -14,7 +14,7 @@
       "state": "City of Dragons",
       "zip": "Where we eat Pierogi"
     },
-    "website": "https://fts3k.github.io/github.io/",
+    "website": "https://kojijo.netlify.app/",
     "resumedownload": "WIP",
     "social": [
 
@@ -26,13 +26,13 @@
 
       {
         "name": "github",
-        "url": "https://github.com/PapaReact",
-        "className": "https://github.com/fts3k"
+        "url": "https://github.com/fts3k",
+        "className": "fa fa-github"
       }
     ]
   },
   "resume": {
-    "skillmessage": "My Programming Language Proficiency",
+    "skillmessage": "Pro and Education Background",
     "education": [
       {
         "school": "JKUAT - Kenya",
