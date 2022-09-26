@@ -105,6 +105,7 @@ const Contact = ({ data }) => {
               <div>
                 <button onClick={submitForm} type="submit" className="submit">
                   Submit
+                  <p><i>Pls note the form submission is <strong>not working at the moment</strong>. Still WIP</i></p>
                 </button>
               </div>
             </fieldset>
