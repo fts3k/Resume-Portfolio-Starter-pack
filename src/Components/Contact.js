@@ -17,15 +17,15 @@ const Contact = ({ data }) => {
     var contactMessage = data.contactmessage;
   }
 
-  // const submitForm = () => {
-  //   window.open(
-  //     `mailto:${contactEmail}?subject=${encodeURIComponent(
-  //       subject
-  //     )}&body=${encodeURIComponent(name)} (${encodeURIComponent(
-  //       email
-  //     )}): ${encodeURIComponent(message)}`
-  //   );
-  // };
+  const submitForm = () => {
+    window.open(
+      `mailto:${contactEmail}?subject=${encodeURIComponent(
+        subject
+      )}&body=${encodeURIComponent(name)} (${encodeURIComponent(
+        email
+      )}): ${encodeURIComponent(message)}`
+    );
+  };
 
   return (
     <section id="contact">
@@ -105,7 +105,6 @@ const Contact = ({ data }) => {
               <div>
                 <button onClick={submitForm} type="submit" className="submit">
                   Submit
-                  <p><i>Pls note the form submission is <strong>not working at the moment</strong>. Still WIP</i></p>
                 </button>
               </div>
             </fieldset>
