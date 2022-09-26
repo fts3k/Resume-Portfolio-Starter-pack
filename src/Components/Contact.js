@@ -17,15 +17,15 @@ const Contact = ({ data }) => {
     var contactMessage = data.contactmessage;
   }
 
-  const submitForm = () => {
-    window.open(
-      `mailto:${contactEmail}?subject=${encodeURIComponent(
-        subject
-      )}&body=${encodeURIComponent(name)} (${encodeURIComponent(
-        email
-      )}): ${encodeURIComponent(message)}`
-    );
-  };
+  // const submitForm = () => {
+  //   window.open(
+  //     `mailto:${contactEmail}?subject=${encodeURIComponent(
+  //       subject
+  //     )}&body=${encodeURIComponent(name)} (${encodeURIComponent(
+  //       email
+  //     )}): ${encodeURIComponent(message)}`
+  //   );
+  // };
 
   return (
     <section id="contact">
