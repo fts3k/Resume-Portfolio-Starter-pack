@@ -526,7 +526,7 @@ input::-moz-focus-inner {
 
 /*  7. Forms  --------------------------------------------------------- */
 
-form { margin-bottom: 24px; }
+/* form { margin-bottom: 24px; }
 fieldset { margin-bottom: 24px; }
 
 input[type="text"],
@@ -547,7 +547,7 @@ select {
 	color: #647373;
 	background: #D3D9D9;
 
-}
+} */
 
 /* select { padding: 0;
    width: 220px;
